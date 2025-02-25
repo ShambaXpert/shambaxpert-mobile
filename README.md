@@ -1,16 +1,32 @@
-# agro_scan
+# AI-Powered Tomato Disease Detection App
 
-A new Flutter project.
+## 📌 Overview
+Tomato farming plays a crucial role in Kenya’s agricultural sector, contributing significantly to food security and economic growth. However, tomato farmers face substantial losses due to diseases that often go undetected until it’s too late. Our AI-powered mobile application provides a solution by enabling early disease detection through image analysis, helping farmers make informed decisions to protect their crops.
 
-## Getting Started
+## 🚀 Features
+- **AI-Powered Image Analysis**: Farmers can upload images of infected tomato plants to receive instant disease diagnosis.
+- **Accurate Treatment Recommendations**: Provides scientifically-backed organic and chemical treatment options.
+- **User-Friendly Mobile Interface**: Designed for easy navigation, even on low-end smartphones.
+- **Offline Mode**: Allows disease detection without an active internet connection.
+- **Multilingual Support**: Ensures accessibility for diverse farming communities.
+- **Farmer Profile & History Tracking**: Enables users to store past diagnoses and treatment records.
 
-This project is a starting point for a Flutter application.
+## 🛠 Technology Stack
+- **Frontend**: Flutter (for cross-platform mobile development)
+- **AI Model**: Google Gemini AI (for image-based disease detection)
+- **Backend**: Django (for user authentication and database management)
 
-A few resources to get you started if this is your first Flutter project:
+## 👥 Project Team
+- **[Joseph Ngure](https://github.com/ngure1)**  
+- **[Macharia Maurice](https://github.com/Macharia-Maurice)**  
+- **[Hilda Mwangi](https://github.com/mwangi-hilda)**  
+- **[Natasha Wangui](https://github.com/natasha-kosh)**  
+- **[King’ori Florence](https://github.com/kingoriwangechi)**  
+- **[Theuri Bonface Karue](https://github.com/theurikarue)**  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Conclusion
+Our AI-powered Tomato Disease Detection App aims to revolutionize tomato farming by providing an accessible and cost-effective solution for farmers. Through early detection, accurate treatment recommendations, and user-friendly design, we empower farmers to reduce losses, increase productivity, and improve overall food security.
+
+📢 _For any inquiries or contributions, feel free to reach out!_
+
