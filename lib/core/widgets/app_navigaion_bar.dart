@@ -18,7 +18,7 @@ class _AppNavigaionBarState extends State<AppNavigaionBar> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: pages[_selectedIndex],
+      body: SafeArea(child: pages[_selectedIndex]),
       bottomNavigationBar: BottomNavigationBar(
         items: [
           BottomNavigationBarItem(
