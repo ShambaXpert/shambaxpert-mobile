@@ -1,3 +1,4 @@
+import 'package:agro_scan/features/image-analysis/presentation/widgets/image_picker.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
@@ -5,6 +6,6 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Center(child: Text("This is the home page"));
+    return Center(child: ImagePickerWidget());
   }
 }
